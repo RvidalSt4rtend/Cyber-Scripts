@@ -1,1 +1,1 @@
-# Scripts for Cibersecurity and CTF's
+# Scripts for Cybersecurity and CTF's
